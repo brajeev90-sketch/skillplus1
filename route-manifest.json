@@ -1,0 +1,1984 @@
+{
+  "generatedAt": "2026-10-08T12:00:00Z",
+  "canonicalBaseUrl": "https://skillplustutors.com",
+  "officeFacts": {
+    "brandName": "Skill+ Tutors",
+    "legalOrAlternateName": "SkillPlus Tutors",
+    "publishedAddress": "Office 205, Saptrang Akash, Hadapsar, Pune - 412308",
+    "postalCode": "412308",
+    "locality": "Hadapsar",
+    "region": "Maharashtra",
+    "country": "IN",
+    "telephone": "+91 8459832971",
+    "whatsappConfirmed": true,
+    "publishedEmail": "info@skillpustutors.com",
+    "domainName": "skillplustutors.com",
+    "emailDomainMismatchNote": "Published footer email (info@skillpustutors.com) omits the letter \"l\" compared to the live domain (skillplustutors.com). Owner confirmation is required before enabling automated SMTP enquiry delivery to this address. Enquiries are durably stored server-side.",
+    "emailOwnerConfirmed": false,
+    "provisionalCoordinates": {
+      "latitude": 18.486142,
+      "longitude": 73.952372,
+      "source": "Mappls Building Listing (Saptarang Akash, Tukai Darshan, Phursungi / Hadapsar)",
+      "sourceUrl": "https://www.mappls.com/",
+      "isOwnerConfirmedPin": false,
+      "verificationNote": "Provisional research coordinate for building Saptarang Akash near Tukai Darshan / Phursungi (18.486142, 73.952372). Used strictly for 10.0 km radius distance calculation; NOT claimed as an owner-confirmed entrance pin or verified Google Business Profile coordinate in public Schema.org markup."
+    },
+    "radiusKm": 10
+  },
+  "metrics": {
+    "totalPlanned": 281,
+    "publishedPubliclyDeployed": 222,
+    "reviewedStaged": 47,
+    "needsEvidenceBlocked": 10,
+    "draftInProgress": 2,
+    "externallyIndexedByGoogle": "NOT YET AVAILABLE (Staging / Pre-Launch Environment)",
+    "byType": {
+      "core": {
+        "total": 9,
+        "published": 9,
+        "held": 0
+      },
+      "regional_hub": {
+        "total": 1,
+        "published": 1,
+        "held": 0
+      },
+      "programme_hub": {
+        "total": 4,
+        "published": 4,
+        "held": 0
+      },
+      "subject_hub": {
+        "total": 5,
+        "published": 5,
+        "held": 0
+      },
+      "board_hub": {
+        "total": 6,
+        "published": 6,
+        "held": 0
+      },
+      "locality_hub": {
+        "total": 45,
+        "published": 35,
+        "held": 10
+      },
+      "subject_locality": {
+        "total": 169,
+        "published": 125,
+        "held": 44
+      },
+      "exam_locality": {
+        "total": 30,
+        "published": 30,
+        "held": 0
+      },
+      "parent_guide": {
+        "total": 12,
+        "published": 7,
+        "held": 5
+      }
+    }
+  },
+  "approvedPublicRoutesCount": 222,
+  "approvedPublicRoutes": [
+    {
+      "url": "/",
+      "pageType": "core",
+      "title": "Skill+ Tutors Pune – Home & Online Tutors in Hadapsar & East Pune",
+      "h1": "Home & Online Tutors in Hadapsar & East Pune",
+      "canonical": "https://skillplustutors.com/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/",
+      "pageType": "regional_hub",
+      "title": "East Pune Home & Online Tutoring Directory (10 km Radius) | Skill+ Tutors",
+      "h1": "East Pune Home & Online Tutoring Directory (~10 km Service Radius)",
+      "canonical": "https://skillplustutors.com/pune/",
+      "status": "published"
+    },
+    {
+      "url": "/about-us/",
+      "pageType": "core",
+      "title": "About Skill+ Tutors Pune | Registered Tutoring Office in Hadapsar",
+      "h1": "About Skill+ Tutors: Educator-Founded 1-on-1 Mentorship in Pune",
+      "canonical": "https://skillplustutors.com/about-us/",
+      "status": "published"
+    },
+    {
+      "url": "/contact-us/",
+      "pageType": "core",
+      "title": "Contact Skill+ Tutors Hadapsar, Pune | Helpline & Office Address",
+      "h1": "Contact Skill+ Tutors – Hadapsar Administrative Office",
+      "canonical": "https://skillplustutors.com/contact-us/",
+      "status": "published"
+    },
+    {
+      "url": "/find-tutor/",
+      "pageType": "core",
+      "title": "Find a Home or Online Tutor in Hadapsar & East Pune | Skill+ Tutors",
+      "h1": "Request a Verified Home or Online Tutor in East Pune",
+      "canonical": "https://skillplustutors.com/find-tutor/",
+      "status": "published"
+    },
+    {
+      "url": "/student-registration/",
+      "pageType": "core",
+      "title": "Student Registration for Home & Online Tuition | Skill+ Tutors Pune",
+      "h1": "Student Academic Registration – Skill+ Tutors Pune",
+      "canonical": "https://skillplustutors.com/student-registration/",
+      "status": "published"
+    },
+    {
+      "url": "/join-us/",
+      "pageType": "core",
+      "title": "Join Skill+ Tutors as Verified Faculty in East Pune | Educator Careers",
+      "h1": "Join Skill+ Tutors: Educator Empanelment in Hadapsar & East Pune",
+      "canonical": "https://skillplustutors.com/join-us/",
+      "status": "published"
+    },
+    {
+      "url": "/teacher-registration/",
+      "pageType": "core",
+      "title": "Teacher Registration & Verification Form | Skill+ Tutors Pune",
+      "h1": "Teacher Registration & Faculty Verification Intake",
+      "canonical": "https://skillplustutors.com/teacher-registration/",
+      "status": "published"
+    },
+    {
+      "url": "/terms-and-conditions/",
+      "pageType": "core",
+      "title": "Terms, Privacy & Academic Verification Policy | Skill+ Tutors Pune",
+      "h1": "Terms of Service, Privacy & Parent Advisory",
+      "canonical": "https://skillplustutors.com/terms-and-conditions/",
+      "status": "published"
+    },
+    {
+      "url": "/resources/",
+      "pageType": "core",
+      "title": "Parent & Student Academic Guides for East Pune | Skill+ Tutors",
+      "h1": "Parent Advisory & Academic Preparation Guides",
+      "canonical": "https://skillplustutors.com/resources/",
+      "status": "published"
+    },
+    {
+      "url": "/jee/",
+      "pageType": "programme_hub",
+      "title": "IIT-JEE Home & Online Tutors in Hadapsar, Pune (Main & Advanced) | Skill+ Tutors",
+      "h1": "IIT-JEE (Main & Advanced) 1-on-1 Home & Online Tutoring in Pune",
+      "canonical": "https://skillplustutors.com/jee/",
+      "status": "published"
+    },
+    {
+      "url": "/neet/",
+      "pageType": "programme_hub",
+      "title": "NEET UG Home & Online Tutors in Hadapsar, Pune (PCB) | Skill+ Tutors",
+      "h1": "NEET UG 1-on-1 Home & Online Tutoring in Hadapsar & East Pune",
+      "canonical": "https://skillplustutors.com/neet/",
+      "status": "published"
+    },
+    {
+      "url": "/10th-board/",
+      "pageType": "programme_hub",
+      "title": "Class 10 Board Home & Online Tutors in Hadapsar, Pune (CBSE, ICSE, SSC) | Skill+ Tutors",
+      "h1": "Class 10 Board (CBSE, ICSE & SSC) Home & Online Tutors in Pune",
+      "canonical": "https://skillplustutors.com/10th-board/",
+      "status": "published"
+    },
+    {
+      "url": "/12th-board/",
+      "pageType": "programme_hub",
+      "title": "Class 12 Science Board Tutors in Hadapsar, Pune (HSC, CBSE, ISC) | Skill+ Tutors",
+      "h1": "Class 12 Science Board (HSC, CBSE & ISC) Home & Online Tutors in Pune",
+      "canonical": "https://skillplustutors.com/12th-board/",
+      "status": "published"
+    },
+    {
+      "url": "/subjects/chemistry/",
+      "pageType": "subject_hub",
+      "title": "Chemistry Tutors in Hadapsar & East Pune (Home & Online) | Skill+ Tutors",
+      "h1": "1-on-1 Chemistry Home & Online Tutors in Hadapsar & East Pune",
+      "canonical": "https://skillplustutors.com/subjects/chemistry/",
+      "status": "published"
+    },
+    {
+      "url": "/subjects/physics/",
+      "pageType": "subject_hub",
+      "title": "Physics Tutors in Hadapsar & East Pune (Home & Online) | Skill+ Tutors",
+      "h1": "1-on-1 Physics Home & Online Tutors in Hadapsar & East Pune",
+      "canonical": "https://skillplustutors.com/subjects/physics/",
+      "status": "published"
+    },
+    {
+      "url": "/subjects/mathematics/",
+      "pageType": "subject_hub",
+      "title": "Mathematics Tutors in Hadapsar & East Pune (Home & Online) | Skill+ Tutors",
+      "h1": "1-on-1 Mathematics Home & Online Tutors in Hadapsar & East Pune",
+      "canonical": "https://skillplustutors.com/subjects/mathematics/",
+      "status": "published"
+    },
+    {
+      "url": "/subjects/biology/",
+      "pageType": "subject_hub",
+      "title": "Biology Tutors in Hadapsar & East Pune (Home & Online) | Skill+ Tutors",
+      "h1": "1-on-1 Biology Home & Online Tutors in Hadapsar & East Pune",
+      "canonical": "https://skillplustutors.com/subjects/biology/",
+      "status": "published"
+    },
+    {
+      "url": "/subjects/science/",
+      "pageType": "subject_hub",
+      "title": "Class 8–10 Science Tutors in Hadapsar & East Pune (Home & Online) | Skill+ Tutors",
+      "h1": "1-on-1 Class 8–10 Science Home & Online Tutors in Hadapsar & East Pune",
+      "canonical": "https://skillplustutors.com/subjects/science/",
+      "status": "published"
+    },
+    {
+      "url": "/boards/cbse/",
+      "pageType": "board_hub",
+      "title": "CBSE Board (Class 8–12) Home & Online Tutors in Hadapsar, Pune | Skill+ Tutors",
+      "h1": "CBSE Board (Class 8–12) 1-on-1 Home & Online Tutors in East Pune",
+      "canonical": "https://skillplustutors.com/boards/cbse/",
+      "status": "published"
+    },
+    {
+      "url": "/boards/icse/",
+      "pageType": "board_hub",
+      "title": "ICSE & ISC Board (Class 8–12) Home & Online Tutors in Hadapsar, Pune | Skill+ Tutors",
+      "h1": "ICSE & ISC Board (Class 8–12) 1-on-1 Home & Online Tutors in East Pune",
+      "canonical": "https://skillplustutors.com/boards/icse/",
+      "status": "published"
+    },
+    {
+      "url": "/boards/ssc/",
+      "pageType": "board_hub",
+      "title": "Maharashtra SSC & Class 10 Board Home & Online Tutors in Hadapsar, Pune | Skill+ Tutors",
+      "h1": "Maharashtra SSC & Class 10 Board 1-on-1 Home & Online Tutors in East Pune",
+      "canonical": "https://skillplustutors.com/boards/ssc/",
+      "status": "published"
+    },
+    {
+      "url": "/boards/hsc/",
+      "pageType": "board_hub",
+      "title": "Maharashtra HSC & Class 12 Science Board Home & Online Tutors in Hadapsar, Pune | Skill+ Tutors",
+      "h1": "Maharashtra HSC & Class 12 Science Board 1-on-1 Home & Online Tutors in East Pune",
+      "canonical": "https://skillplustutors.com/boards/hsc/",
+      "status": "published"
+    },
+    {
+      "url": "/boards/ib/",
+      "pageType": "board_hub",
+      "title": "IB (MYP & Diploma Programme) Home & Online Tutors in Hadapsar, Pune | Skill+ Tutors",
+      "h1": "IB (MYP & Diploma Programme) 1-on-1 Home & Online Tutors in East Pune",
+      "canonical": "https://skillplustutors.com/boards/ib/",
+      "status": "published"
+    },
+    {
+      "url": "/boards/igcse/",
+      "pageType": "board_hub",
+      "title": "Cambridge IGCSE & A-Level Home & Online Tutors in Hadapsar, Pune | Skill+ Tutors",
+      "h1": "Cambridge IGCSE & A-Level 1-on-1 Home & Online Tutors in East Pune",
+      "canonical": "https://skillplustutors.com/boards/igcse/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Hadapsar, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Hadapsar, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar-gadital/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Hadapsar Gadital, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Hadapsar Gadital, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar-gadital/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sasane-nagar/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Sasane Nagar, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Sasane Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/sasane-nagar/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/malwadi/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Malwadi, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Malwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/malwadi/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/satavwadi/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Satavwadi, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Satavwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/satavwadi/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/gondhale-nagar/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Gondhale Nagar, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Gondhale Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/gondhale-nagar/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kalepadal/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Kalepadal, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Kalepadal, Pune",
+      "canonical": "https://skillplustutors.com/pune/kalepadal/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/satar-nagar/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Satar Nagar, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Satar Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/satar-nagar/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/ramtekdi/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Ramtekdi, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Ramtekdi, Pune",
+      "canonical": "https://skillplustutors.com/pune/ramtekdi/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/magarpatta-city/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Magarpatta City, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Magarpatta City, Pune",
+      "canonical": "https://skillplustutors.com/pune/magarpatta-city/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/amanora-park-town/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Amanora Park Town, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Amanora Park Town, Pune",
+      "canonical": "https://skillplustutors.com/pune/amanora-park-town/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sade-satra-nali/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Sade Satra Nali, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Sade Satra Nali, Pune",
+      "canonical": "https://skillplustutors.com/pune/sade-satra-nali/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mundhwa/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Mundhwa, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Mundhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/mundhwa/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/keshav-nagar/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Keshav Nagar, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Keshav Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/keshav-nagar/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kharadi/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Kharadi, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Kharadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/kharadi/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/wanowrie/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Wanowrie, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Wanowrie, Pune",
+      "canonical": "https://skillplustutors.com/pune/wanowrie/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/fatima-nagar/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Fatima Nagar, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Fatima Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/fatima-nagar/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/nibm-road/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in NIBM Road, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in NIBM Road, Pune",
+      "canonical": "https://skillplustutors.com/pune/nibm-road/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/salunke-vihar/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Salunke Vihar, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Salunke Vihar, Pune",
+      "canonical": "https://skillplustutors.com/pune/salunke-vihar/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/handewadi/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Handewadi, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Handewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/handewadi/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/satav-nagar/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Satav Nagar, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Satav Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/satav-nagar/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mohammadwadi/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Mohammadwadi, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Mohammadwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/mohammadwadi/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/undri/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Undri, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Undri, Pune",
+      "canonical": "https://skillplustutors.com/pune/undri/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/pisoli/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Pisoli, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Pisoli, Pune",
+      "canonical": "https://skillplustutors.com/pune/pisoli/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kondhwa/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Kondhwa, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Kondhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/kondhwa/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/bt-kawade-road/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in BT Kawade Road, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in BT Kawade Road, Pune",
+      "canonical": "https://skillplustutors.com/pune/bt-kawade-road/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/ghorpadi/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Ghorpadi, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Ghorpadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/ghorpadi/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/lulla-nagar/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Lulla Nagar, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Lulla Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/lulla-nagar/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/phursungi/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Phursungi, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Phursungi, Pune",
+      "canonical": "https://skillplustutors.com/pune/phursungi/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/bhekrai-nagar/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Bhekrai Nagar, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Bhekrai Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/bhekrai-nagar/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/tukai-darshan/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Tukai Darshan, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Tukai Darshan, Pune",
+      "canonical": "https://skillplustutors.com/pune/tukai-darshan/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/papde-wasti/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Papde Wasti, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Papde Wasti, Pune",
+      "canonical": "https://skillplustutors.com/pune/papde-wasti/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/shewalewadi/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Shewalewadi, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Shewalewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/shewalewadi/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/manjari-budruk/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Manjari Budruk, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Manjari Budruk, Pune",
+      "canonical": "https://skillplustutors.com/pune/manjari-budruk/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/uruli-devachi/",
+      "pageType": "locality_hub",
+      "title": "Home & Online Tutors in Uruli Devachi, Pune (NEET, JEE & Boards) | Skill+ Tutors",
+      "h1": "Home & Online Tutors in Uruli Devachi, Pune",
+      "canonical": "https://skillplustutors.com/pune/uruli-devachi/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Hadapsar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Hadapsar, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Hadapsar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Hadapsar, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Hadapsar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Hadapsar, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Hadapsar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Hadapsar, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Hadapsar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Hadapsar, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar-gadital/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Hadapsar Gadital, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Hadapsar Gadital, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar-gadital/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar-gadital/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Hadapsar Gadital, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Hadapsar Gadital, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar-gadital/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar-gadital/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Hadapsar Gadital, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Hadapsar Gadital, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar-gadital/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar-gadital/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Hadapsar Gadital, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Hadapsar Gadital, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar-gadital/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar-gadital/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Hadapsar Gadital, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Hadapsar Gadital, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar-gadital/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sasane-nagar/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Sasane Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Sasane Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/sasane-nagar/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sasane-nagar/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Sasane Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Sasane Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/sasane-nagar/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sasane-nagar/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Sasane Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Sasane Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/sasane-nagar/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sasane-nagar/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Sasane Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Sasane Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/sasane-nagar/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sasane-nagar/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Sasane Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Sasane Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/sasane-nagar/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/malwadi/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Malwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Malwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/malwadi/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/malwadi/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Malwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Malwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/malwadi/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/malwadi/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Malwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Malwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/malwadi/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/malwadi/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Malwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Malwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/malwadi/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/malwadi/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Malwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Malwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/malwadi/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/satavwadi/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Satavwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Satavwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/satavwadi/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/satavwadi/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Satavwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Satavwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/satavwadi/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/satavwadi/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Satavwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Satavwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/satavwadi/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/satavwadi/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Satavwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Satavwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/satavwadi/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/satavwadi/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Satavwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Satavwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/satavwadi/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/gondhale-nagar/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Gondhale Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Gondhale Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/gondhale-nagar/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/gondhale-nagar/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Gondhale Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Gondhale Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/gondhale-nagar/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/gondhale-nagar/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Gondhale Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Gondhale Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/gondhale-nagar/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/gondhale-nagar/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Gondhale Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Gondhale Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/gondhale-nagar/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/gondhale-nagar/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Gondhale Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Gondhale Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/gondhale-nagar/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kalepadal/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Kalepadal, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Kalepadal, Pune",
+      "canonical": "https://skillplustutors.com/pune/kalepadal/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kalepadal/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Kalepadal, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Kalepadal, Pune",
+      "canonical": "https://skillplustutors.com/pune/kalepadal/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kalepadal/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Kalepadal, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Kalepadal, Pune",
+      "canonical": "https://skillplustutors.com/pune/kalepadal/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kalepadal/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Kalepadal, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Kalepadal, Pune",
+      "canonical": "https://skillplustutors.com/pune/kalepadal/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kalepadal/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Kalepadal, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Kalepadal, Pune",
+      "canonical": "https://skillplustutors.com/pune/kalepadal/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/magarpatta-city/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Magarpatta City, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Magarpatta City, Pune",
+      "canonical": "https://skillplustutors.com/pune/magarpatta-city/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/magarpatta-city/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Magarpatta City, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Magarpatta City, Pune",
+      "canonical": "https://skillplustutors.com/pune/magarpatta-city/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/magarpatta-city/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Magarpatta City, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Magarpatta City, Pune",
+      "canonical": "https://skillplustutors.com/pune/magarpatta-city/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/magarpatta-city/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Magarpatta City, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Magarpatta City, Pune",
+      "canonical": "https://skillplustutors.com/pune/magarpatta-city/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/magarpatta-city/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Magarpatta City, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Magarpatta City, Pune",
+      "canonical": "https://skillplustutors.com/pune/magarpatta-city/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/amanora-park-town/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Amanora Park Town, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Amanora Park Town, Pune",
+      "canonical": "https://skillplustutors.com/pune/amanora-park-town/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/amanora-park-town/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Amanora Park Town, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Amanora Park Town, Pune",
+      "canonical": "https://skillplustutors.com/pune/amanora-park-town/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/amanora-park-town/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Amanora Park Town, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Amanora Park Town, Pune",
+      "canonical": "https://skillplustutors.com/pune/amanora-park-town/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/amanora-park-town/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Amanora Park Town, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Amanora Park Town, Pune",
+      "canonical": "https://skillplustutors.com/pune/amanora-park-town/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/amanora-park-town/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Amanora Park Town, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Amanora Park Town, Pune",
+      "canonical": "https://skillplustutors.com/pune/amanora-park-town/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sade-satra-nali/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Sade Satra Nali, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Sade Satra Nali, Pune",
+      "canonical": "https://skillplustutors.com/pune/sade-satra-nali/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sade-satra-nali/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Sade Satra Nali, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Sade Satra Nali, Pune",
+      "canonical": "https://skillplustutors.com/pune/sade-satra-nali/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sade-satra-nali/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Sade Satra Nali, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Sade Satra Nali, Pune",
+      "canonical": "https://skillplustutors.com/pune/sade-satra-nali/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sade-satra-nali/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Sade Satra Nali, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Sade Satra Nali, Pune",
+      "canonical": "https://skillplustutors.com/pune/sade-satra-nali/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/sade-satra-nali/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Sade Satra Nali, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Sade Satra Nali, Pune",
+      "canonical": "https://skillplustutors.com/pune/sade-satra-nali/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mundhwa/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Mundhwa, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Mundhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/mundhwa/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mundhwa/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Mundhwa, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Mundhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/mundhwa/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mundhwa/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Mundhwa, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Mundhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/mundhwa/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mundhwa/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Mundhwa, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Mundhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/mundhwa/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mundhwa/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Mundhwa, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Mundhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/mundhwa/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/keshav-nagar/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Keshav Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Keshav Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/keshav-nagar/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/keshav-nagar/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Keshav Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Keshav Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/keshav-nagar/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/keshav-nagar/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Keshav Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Keshav Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/keshav-nagar/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/keshav-nagar/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Keshav Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Keshav Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/keshav-nagar/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/keshav-nagar/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Keshav Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Keshav Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/keshav-nagar/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/wanowrie/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Wanowrie, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Wanowrie, Pune",
+      "canonical": "https://skillplustutors.com/pune/wanowrie/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/wanowrie/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Wanowrie, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Wanowrie, Pune",
+      "canonical": "https://skillplustutors.com/pune/wanowrie/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/wanowrie/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Wanowrie, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Wanowrie, Pune",
+      "canonical": "https://skillplustutors.com/pune/wanowrie/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/wanowrie/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Wanowrie, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Wanowrie, Pune",
+      "canonical": "https://skillplustutors.com/pune/wanowrie/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/wanowrie/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Wanowrie, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Wanowrie, Pune",
+      "canonical": "https://skillplustutors.com/pune/wanowrie/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/fatima-nagar/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Fatima Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Fatima Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/fatima-nagar/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/fatima-nagar/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Fatima Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Fatima Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/fatima-nagar/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/fatima-nagar/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Fatima Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Fatima Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/fatima-nagar/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/fatima-nagar/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Fatima Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Fatima Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/fatima-nagar/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/fatima-nagar/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Fatima Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Fatima Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/fatima-nagar/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/nibm-road/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in NIBM Road, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in NIBM Road, Pune",
+      "canonical": "https://skillplustutors.com/pune/nibm-road/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/nibm-road/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in NIBM Road, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in NIBM Road, Pune",
+      "canonical": "https://skillplustutors.com/pune/nibm-road/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/nibm-road/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in NIBM Road, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in NIBM Road, Pune",
+      "canonical": "https://skillplustutors.com/pune/nibm-road/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/nibm-road/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in NIBM Road, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in NIBM Road, Pune",
+      "canonical": "https://skillplustutors.com/pune/nibm-road/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/nibm-road/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in NIBM Road, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in NIBM Road, Pune",
+      "canonical": "https://skillplustutors.com/pune/nibm-road/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/salunke-vihar/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Salunke Vihar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Salunke Vihar, Pune",
+      "canonical": "https://skillplustutors.com/pune/salunke-vihar/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/salunke-vihar/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Salunke Vihar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Salunke Vihar, Pune",
+      "canonical": "https://skillplustutors.com/pune/salunke-vihar/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/salunke-vihar/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Salunke Vihar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Salunke Vihar, Pune",
+      "canonical": "https://skillplustutors.com/pune/salunke-vihar/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/salunke-vihar/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Salunke Vihar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Salunke Vihar, Pune",
+      "canonical": "https://skillplustutors.com/pune/salunke-vihar/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/salunke-vihar/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Salunke Vihar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Salunke Vihar, Pune",
+      "canonical": "https://skillplustutors.com/pune/salunke-vihar/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/handewadi/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Handewadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Handewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/handewadi/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/handewadi/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Handewadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Handewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/handewadi/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/handewadi/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Handewadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Handewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/handewadi/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/handewadi/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Handewadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Handewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/handewadi/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/handewadi/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Handewadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Handewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/handewadi/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mohammadwadi/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Mohammadwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Mohammadwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/mohammadwadi/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mohammadwadi/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Mohammadwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Mohammadwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/mohammadwadi/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mohammadwadi/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Mohammadwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Mohammadwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/mohammadwadi/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mohammadwadi/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Mohammadwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Mohammadwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/mohammadwadi/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/mohammadwadi/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Mohammadwadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Mohammadwadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/mohammadwadi/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/undri/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Undri, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Undri, Pune",
+      "canonical": "https://skillplustutors.com/pune/undri/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/undri/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Undri, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Undri, Pune",
+      "canonical": "https://skillplustutors.com/pune/undri/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/undri/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Undri, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Undri, Pune",
+      "canonical": "https://skillplustutors.com/pune/undri/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/undri/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Undri, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Undri, Pune",
+      "canonical": "https://skillplustutors.com/pune/undri/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/undri/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Undri, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Undri, Pune",
+      "canonical": "https://skillplustutors.com/pune/undri/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kondhwa/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Kondhwa, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Kondhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/kondhwa/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kondhwa/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Kondhwa, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Kondhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/kondhwa/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kondhwa/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Kondhwa, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Kondhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/kondhwa/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kondhwa/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Kondhwa, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Kondhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/kondhwa/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kondhwa/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Kondhwa, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Kondhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/kondhwa/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/phursungi/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Phursungi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Phursungi, Pune",
+      "canonical": "https://skillplustutors.com/pune/phursungi/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/phursungi/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Phursungi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Phursungi, Pune",
+      "canonical": "https://skillplustutors.com/pune/phursungi/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/phursungi/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Phursungi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Phursungi, Pune",
+      "canonical": "https://skillplustutors.com/pune/phursungi/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/phursungi/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Phursungi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Phursungi, Pune",
+      "canonical": "https://skillplustutors.com/pune/phursungi/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/phursungi/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Phursungi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Phursungi, Pune",
+      "canonical": "https://skillplustutors.com/pune/phursungi/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/bhekrai-nagar/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Bhekrai Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Bhekrai Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/bhekrai-nagar/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/bhekrai-nagar/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Bhekrai Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Bhekrai Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/bhekrai-nagar/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/bhekrai-nagar/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Bhekrai Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Bhekrai Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/bhekrai-nagar/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/bhekrai-nagar/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Bhekrai Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Bhekrai Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/bhekrai-nagar/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/bhekrai-nagar/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Bhekrai Nagar, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Bhekrai Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/bhekrai-nagar/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/tukai-darshan/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Tukai Darshan, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Tukai Darshan, Pune",
+      "canonical": "https://skillplustutors.com/pune/tukai-darshan/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/tukai-darshan/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Tukai Darshan, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Tukai Darshan, Pune",
+      "canonical": "https://skillplustutors.com/pune/tukai-darshan/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/tukai-darshan/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Tukai Darshan, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Tukai Darshan, Pune",
+      "canonical": "https://skillplustutors.com/pune/tukai-darshan/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/tukai-darshan/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Tukai Darshan, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Tukai Darshan, Pune",
+      "canonical": "https://skillplustutors.com/pune/tukai-darshan/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/tukai-darshan/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Tukai Darshan, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Tukai Darshan, Pune",
+      "canonical": "https://skillplustutors.com/pune/tukai-darshan/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/shewalewadi/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Shewalewadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Shewalewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/shewalewadi/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/shewalewadi/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Shewalewadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Shewalewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/shewalewadi/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/shewalewadi/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Shewalewadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Shewalewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/shewalewadi/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/shewalewadi/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Shewalewadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Shewalewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/shewalewadi/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/shewalewadi/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Shewalewadi, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Shewalewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/shewalewadi/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/manjari-budruk/physics-tutors/",
+      "pageType": "subject_locality",
+      "title": "Physics Tutors in Manjari Budruk, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Physics Home & Online Tutors in Manjari Budruk, Pune",
+      "canonical": "https://skillplustutors.com/pune/manjari-budruk/physics-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/manjari-budruk/chemistry-tutors/",
+      "pageType": "subject_locality",
+      "title": "Chemistry Tutors in Manjari Budruk, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Chemistry Home & Online Tutors in Manjari Budruk, Pune",
+      "canonical": "https://skillplustutors.com/pune/manjari-budruk/chemistry-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/manjari-budruk/maths-tutors/",
+      "pageType": "subject_locality",
+      "title": "Mathematics Tutors in Manjari Budruk, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Mathematics Home & Online Tutors in Manjari Budruk, Pune",
+      "canonical": "https://skillplustutors.com/pune/manjari-budruk/maths-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/manjari-budruk/biology-tutors/",
+      "pageType": "subject_locality",
+      "title": "Biology Tutors in Manjari Budruk, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Biology Home & Online Tutors in Manjari Budruk, Pune",
+      "canonical": "https://skillplustutors.com/pune/manjari-budruk/biology-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/manjari-budruk/science-tutors/",
+      "pageType": "subject_locality",
+      "title": "Class 8–10 Science Tutors in Manjari Budruk, Pune (Home & Online) | Skill+ Tutors",
+      "h1": "Class 8–10 Science Home & Online Tutors in Manjari Budruk, Pune",
+      "canonical": "https://skillplustutors.com/pune/manjari-budruk/science-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar/neet-tutors/",
+      "pageType": "exam_locality",
+      "title": "NEET Tutors in Hadapsar, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "NEET UG Medical Entrance Tutors in Hadapsar, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar/neet-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar/jee-tutors/",
+      "pageType": "exam_locality",
+      "title": "JEE Tutors in Hadapsar, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "IIT-JEE (Main & Advanced) Tutors in Hadapsar, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar/jee-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar/cbse-tutors/",
+      "pageType": "exam_locality",
+      "title": "CBSE Tutors in Hadapsar, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "CBSE Board (Class 8–12) Tutors in Hadapsar, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar/cbse-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar/ssc-tutors/",
+      "pageType": "exam_locality",
+      "title": "10th Board / SSC Tutors in Hadapsar, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "Maharashtra SSC & Class 10 Board Tutors in Hadapsar, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar/ssc-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/hadapsar/hsc-tutors/",
+      "pageType": "exam_locality",
+      "title": "12th Board / HSC Tutors in Hadapsar, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "Maharashtra HSC & Class 12 Science Board Tutors in Hadapsar, Pune",
+      "canonical": "https://skillplustutors.com/pune/hadapsar/hsc-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/magarpatta-city/jee-tutors/",
+      "pageType": "exam_locality",
+      "title": "JEE Tutors in Magarpatta City, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "IIT-JEE (Main & Advanced) Tutors in Magarpatta City, Pune",
+      "canonical": "https://skillplustutors.com/pune/magarpatta-city/jee-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/magarpatta-city/neet-tutors/",
+      "pageType": "exam_locality",
+      "title": "NEET Tutors in Magarpatta City, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "NEET UG Medical Entrance Tutors in Magarpatta City, Pune",
+      "canonical": "https://skillplustutors.com/pune/magarpatta-city/neet-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/magarpatta-city/cbse-tutors/",
+      "pageType": "exam_locality",
+      "title": "CBSE Tutors in Magarpatta City, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "CBSE Board (Class 8–12) Tutors in Magarpatta City, Pune",
+      "canonical": "https://skillplustutors.com/pune/magarpatta-city/cbse-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/magarpatta-city/icse-tutors/",
+      "pageType": "exam_locality",
+      "title": "ICSE Tutors in Magarpatta City, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "ICSE & ISC Board (Class 8–12) Tutors in Magarpatta City, Pune",
+      "canonical": "https://skillplustutors.com/pune/magarpatta-city/icse-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/amanora-park-town/jee-tutors/",
+      "pageType": "exam_locality",
+      "title": "JEE Tutors in Amanora Park Town, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "IIT-JEE (Main & Advanced) Tutors in Amanora Park Town, Pune",
+      "canonical": "https://skillplustutors.com/pune/amanora-park-town/jee-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/amanora-park-town/neet-tutors/",
+      "pageType": "exam_locality",
+      "title": "NEET Tutors in Amanora Park Town, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "NEET UG Medical Entrance Tutors in Amanora Park Town, Pune",
+      "canonical": "https://skillplustutors.com/pune/amanora-park-town/neet-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/amanora-park-town/cbse-tutors/",
+      "pageType": "exam_locality",
+      "title": "CBSE Tutors in Amanora Park Town, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "CBSE Board (Class 8–12) Tutors in Amanora Park Town, Pune",
+      "canonical": "https://skillplustutors.com/pune/amanora-park-town/cbse-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/amanora-park-town/icse-tutors/",
+      "pageType": "exam_locality",
+      "title": "ICSE Tutors in Amanora Park Town, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "ICSE & ISC Board (Class 8–12) Tutors in Amanora Park Town, Pune",
+      "canonical": "https://skillplustutors.com/pune/amanora-park-town/icse-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/undri/neet-tutors/",
+      "pageType": "exam_locality",
+      "title": "NEET Tutors in Undri, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "NEET UG Medical Entrance Tutors in Undri, Pune",
+      "canonical": "https://skillplustutors.com/pune/undri/neet-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/undri/jee-tutors/",
+      "pageType": "exam_locality",
+      "title": "JEE Tutors in Undri, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "IIT-JEE (Main & Advanced) Tutors in Undri, Pune",
+      "canonical": "https://skillplustutors.com/pune/undri/jee-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/undri/cbse-tutors/",
+      "pageType": "exam_locality",
+      "title": "CBSE Tutors in Undri, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "CBSE Board (Class 8–12) Tutors in Undri, Pune",
+      "canonical": "https://skillplustutors.com/pune/undri/cbse-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/undri/icse-tutors/",
+      "pageType": "exam_locality",
+      "title": "ICSE Tutors in Undri, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "ICSE & ISC Board (Class 8–12) Tutors in Undri, Pune",
+      "canonical": "https://skillplustutors.com/pune/undri/icse-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/wanowrie/neet-tutors/",
+      "pageType": "exam_locality",
+      "title": "NEET Tutors in Wanowrie, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "NEET UG Medical Entrance Tutors in Wanowrie, Pune",
+      "canonical": "https://skillplustutors.com/pune/wanowrie/neet-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/wanowrie/jee-tutors/",
+      "pageType": "exam_locality",
+      "title": "JEE Tutors in Wanowrie, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "IIT-JEE (Main & Advanced) Tutors in Wanowrie, Pune",
+      "canonical": "https://skillplustutors.com/pune/wanowrie/jee-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/wanowrie/icse-tutors/",
+      "pageType": "exam_locality",
+      "title": "ICSE Tutors in Wanowrie, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "ICSE & ISC Board (Class 8–12) Tutors in Wanowrie, Pune",
+      "canonical": "https://skillplustutors.com/pune/wanowrie/icse-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/nibm-road/neet-tutors/",
+      "pageType": "exam_locality",
+      "title": "NEET Tutors in NIBM Road, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "NEET UG Medical Entrance Tutors in NIBM Road, Pune",
+      "canonical": "https://skillplustutors.com/pune/nibm-road/neet-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/nibm-road/jee-tutors/",
+      "pageType": "exam_locality",
+      "title": "JEE Tutors in NIBM Road, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "IIT-JEE (Main & Advanced) Tutors in NIBM Road, Pune",
+      "canonical": "https://skillplustutors.com/pune/nibm-road/jee-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/nibm-road/cbse-tutors/",
+      "pageType": "exam_locality",
+      "title": "CBSE Tutors in NIBM Road, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "CBSE Board (Class 8–12) Tutors in NIBM Road, Pune",
+      "canonical": "https://skillplustutors.com/pune/nibm-road/cbse-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/phursungi/neet-tutors/",
+      "pageType": "exam_locality",
+      "title": "NEET Tutors in Phursungi, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "NEET UG Medical Entrance Tutors in Phursungi, Pune",
+      "canonical": "https://skillplustutors.com/pune/phursungi/neet-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/phursungi/ssc-tutors/",
+      "pageType": "exam_locality",
+      "title": "10th Board / SSC Tutors in Phursungi, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "Maharashtra SSC & Class 10 Board Tutors in Phursungi, Pune",
+      "canonical": "https://skillplustutors.com/pune/phursungi/ssc-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/bhekrai-nagar/ssc-tutors/",
+      "pageType": "exam_locality",
+      "title": "10th Board / SSC Tutors in Bhekrai Nagar, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "Maharashtra SSC & Class 10 Board Tutors in Bhekrai Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/bhekrai-nagar/ssc-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/bhekrai-nagar/hsc-tutors/",
+      "pageType": "exam_locality",
+      "title": "12th Board / HSC Tutors in Bhekrai Nagar, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "Maharashtra HSC & Class 12 Science Board Tutors in Bhekrai Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/bhekrai-nagar/hsc-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/keshav-nagar/cbse-tutors/",
+      "pageType": "exam_locality",
+      "title": "CBSE Tutors in Keshav Nagar, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "CBSE Board (Class 8–12) Tutors in Keshav Nagar, Pune",
+      "canonical": "https://skillplustutors.com/pune/keshav-nagar/cbse-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/handewadi/neet-tutors/",
+      "pageType": "exam_locality",
+      "title": "NEET Tutors in Handewadi, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "NEET UG Medical Entrance Tutors in Handewadi, Pune",
+      "canonical": "https://skillplustutors.com/pune/handewadi/neet-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/pune/kondhwa/neet-tutors/",
+      "pageType": "exam_locality",
+      "title": "NEET Tutors in Kondhwa, Pune (1-on-1 Home & Online) | Skill+ Tutors",
+      "h1": "NEET UG Medical Entrance Tutors in Kondhwa, Pune",
+      "canonical": "https://skillplustutors.com/pune/kondhwa/neet-tutors/",
+      "status": "published"
+    },
+    {
+      "url": "/resources/how-to-choose-a-chemistry-tutor/",
+      "pageType": "parent_guide",
+      "title": "How to Choose a Class 11–12, JEE or NEET Chemistry Tutor in Pune | Parent Guide",
+      "h1": "How to Evaluate and Choose a Chemistry Tutor for Class 11–12, JEE & NEET",
+      "canonical": "https://skillplustutors.com/resources/how-to-choose-a-chemistry-tutor/",
+      "status": "published"
+    },
+    {
+      "url": "/resources/home-vs-online-tuition-east-pune/",
+      "pageType": "parent_guide",
+      "title": "1-on-1 Home Tuition vs Live Online Tutoring in East Pune: A Practical Comparison",
+      "h1": "1-on-1 Home Tuition vs Live Online Tutoring: Which Fits Your Child in East Pune?",
+      "canonical": "https://skillplustutors.com/resources/home-vs-online-tuition-east-pune/",
+      "status": "published"
+    },
+    {
+      "url": "/resources/neet-biology-ncert-study-framework/",
+      "pageType": "parent_guide",
+      "title": "NEET UG Biology NCERT Line-by-Line Study Framework for Class 11 & 12",
+      "h1": "Mastering NCERT Biology for NEET UG: Line-by-Line Study & Revision Framework",
+      "canonical": "https://skillplustutors.com/resources/neet-biology-ncert-study-framework/",
+      "status": "published"
+    },
+    {
+      "url": "/resources/jee-main-physics-problem-solving-guide/",
+      "pageType": "parent_guide",
+      "title": "Bridging Theory to Numericals in JEE Main & Class 11–12 Physics | Student Guide",
+      "h1": "How to Move from Understanding Physics Theory to Solving JEE & Board Numericals",
+      "canonical": "https://skillplustutors.com/resources/jee-main-physics-problem-solving-guide/",
+      "status": "published"
+    },
+    {
+      "url": "/resources/class-10-board-exam-preparation-checklist/",
+      "pageType": "parent_guide",
+      "title": "Class 10 Board Exam Preparation Checklist (CBSE, ICSE & Maharashtra SSC)",
+      "h1": "Class 10 Board Exam Preparation Checklist: Maths & Science Month-by-Month Plan",
+      "canonical": "https://skillplustutors.com/resources/class-10-board-exam-preparation-checklist/",
+      "status": "published"
+    },
+    {
+      "url": "/resources/hsc-vs-cbse-class-11-12-science-transition/",
+      "pageType": "parent_guide",
+      "title": "Managing the Class 10 to Class 11 Science Transition in Pune (HSC & CBSE)",
+      "h1": "How to Manage the Jump from Class 10 to Class 11 Science (PCM / PCB)",
+      "canonical": "https://skillplustutors.com/resources/hsc-vs-cbse-class-11-12-science-transition/",
+      "status": "published"
+    },
+    {
+      "url": "/resources/parent-checklist-home-tutor-safety-and-progress-tracking/",
+      "pageType": "parent_guide",
+      "title": "Parent Checklist: Home Tutor Verification, Safety & Monthly Progress Tracking",
+      "h1": "How Parents Should Verify Home Tutors and Track Monthly Academic Progress",
+      "canonical": "https://skillplustutors.com/resources/parent-checklist-home-tutor-safety-and-progress-tracking/",
+      "status": "published"
+    }
+  ],
+  "redirects": [
+    {
+      "sourcePath": "/pune/fursungi/",
+      "destinationPath": "/pune/phursungi/",
+      "statusCode": 301,
+      "reason": "Merge spelling alias Fursungi into canonical Phursungi hub"
+    },
+    {
+      "sourcePath": "/pune/fursungi/chemistry-tutors/",
+      "destinationPath": "/pune/phursungi/chemistry-tutors/",
+      "statusCode": 301,
+      "reason": "Merge spelling alias Fursungi chemistry tutors into canonical Phursungi route"
+    },
+    {
+      "sourcePath": "/pune/fursungi/physics-tutors/",
+      "destinationPath": "/pune/phursungi/physics-tutors/",
+      "statusCode": 301,
+      "reason": "Merge spelling alias Fursungi physics tutors into canonical Phursungi route"
+    },
+    {
+      "sourcePath": "/pune/fursungi/maths-tutors/",
+      "destinationPath": "/pune/phursungi/maths-tutors/",
+      "statusCode": 301,
+      "reason": "Merge spelling alias Fursungi maths tutors into canonical Phursungi route"
+    },
+    {
+      "sourcePath": "/pune/kale-padal/",
+      "destinationPath": "/pune/kalepadal/",
+      "statusCode": 301,
+      "reason": "Merge spelling variation Kale Padal into canonical Kalepadal hub"
+    },
+    {
+      "sourcePath": "/pune/gadital/",
+      "destinationPath": "/pune/hadapsar-gadital/",
+      "statusCode": 301,
+      "reason": "Merge short alias Gadital into canonical Hadapsar Gadital hub"
+    },
+    {
+      "sourcePath": "/pune/mohammed-wadi/",
+      "destinationPath": "/pune/mohammadwadi/",
+      "statusCode": 301,
+      "reason": "Merge spelling variation Mohammed Wadi into canonical Mohammadwadi hub"
+    },
+    {
+      "sourcePath": "/pune/autadwadi-handewadi/",
+      "destinationPath": "/pune/handewadi/",
+      "statusCode": 301,
+      "reason": "Consolidate overlapping sub-pocket Autadwadi Handewadi into canonical Handewadi hub"
+    },
+    {
+      "sourcePath": "/pune/magarpatta/",
+      "destinationPath": "/pune/magarpatta-city/",
+      "statusCode": 301,
+      "reason": "Consolidate short name Magarpatta into canonical Magarpatta City hub"
+    },
+    {
+      "sourcePath": "/pune/amanora/",
+      "destinationPath": "/pune/amanora-park-town/",
+      "statusCode": 301,
+      "reason": "Consolidate short name Amanora into canonical Amanora Park Town hub"
+    },
+    {
+      "sourcePath": "/pune/manjri/",
+      "destinationPath": "/pune/manjari-budruk/",
+      "statusCode": 301,
+      "reason": "Consolidate spelling variant Manjri into canonical Manjari Budruk hub"
+    },
+    {
+      "sourcePath": "/pune/wanwadi/",
+      "destinationPath": "/pune/wanowrie/",
+      "statusCode": 301,
+      "reason": "Consolidate colloquial alias Wanwadi into canonical Wanowrie hub"
+    },
+    {
+      "sourcePath": "/pune/nibm/",
+      "destinationPath": "/pune/nibm-road/",
+      "statusCode": 301,
+      "reason": "Consolidate short alias NIBM into canonical NIBM Road hub"
+    },
+    {
+      "sourcePath": "/pune/hadapsar/mathematics-tutors/",
+      "destinationPath": "/pune/hadapsar/maths-tutors/",
+      "statusCode": 301,
+      "reason": "Consolidate mathematics-tutors slug into canonical maths-tutors route"
+    },
+    {
+      "sourcePath": "/pune/magarpatta-city/mathematics-tutors/",
+      "destinationPath": "/pune/magarpatta-city/maths-tutors/",
+      "statusCode": 301,
+      "reason": "Consolidate mathematics-tutors slug into canonical maths-tutors route"
+    },
+    {
+      "sourcePath": "/pune/amanora-park-town/mathematics-tutors/",
+      "destinationPath": "/pune/amanora-park-town/maths-tutors/",
+      "statusCode": 301,
+      "reason": "Consolidate mathematics-tutors slug into canonical maths-tutors route"
+    },
+    {
+      "sourcePath": "/wp-sitemap.xml",
+      "destinationPath": "/sitemap.xml",
+      "statusCode": 301,
+      "reason": "Redirect legacy WordPress sitemap endpoint to clean canonical XML sitemap"
+    },
+    {
+      "sourcePath": "/contact/",
+      "destinationPath": "/contact-us/",
+      "statusCode": 301,
+      "reason": "Preserve existing live /contact-us/ route as canonical"
+    },
+    {
+      "sourcePath": "/about/",
+      "destinationPath": "/about-us/",
+      "statusCode": 301,
+      "reason": "Preserve existing live /about-us/ route as canonical"
+    },
+    {
+      "sourcePath": "/enquire/",
+      "destinationPath": "/find-tutor/",
+      "statusCode": 301,
+      "reason": "Direct generic /enquire/ to preserved /find-tutor/ enquiry route"
+    }
+  ]
+}
